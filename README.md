@@ -107,7 +107,7 @@ sensitivity and specificity of 90% and 88% respectively.
 | DPNNet_4_2 | 85 | 88 |
 | DPNNet_5_2 | 89 | 86 |
 | DPNNet_5_3 | 88 | 88 |
-| **DPNNet_5_3_50pDrop \*** | **90 \*** | **88 \*** |
+| **DPNNet_5_3_50pDrop** | **90** | **88** |
 | DPNNet_5_3_50pDrop_withBN_withLR | 85 | 88 |
 | TransferLearning | 61 | 62 |
 
